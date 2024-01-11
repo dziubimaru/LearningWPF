@@ -1,0 +1,42 @@
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.exe
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.deps.json
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.runtimeconfig.json
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.pdb
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.csproj.AssemblyReference.cache
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp_MarkupCompile.cache
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp_MarkupCompile.lref
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.g.resources
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.AssemblyInfoInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.AssemblyInfo.cs
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.csproj.CoreCompileInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\refint\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.pdb
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.genruntimeconfig.cache
+C:\Users\shich\OneDrive\Desktop\C#\C# desktop WPF app\04\demos\before\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\ref\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.exe
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.deps.json
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.runtimeconfig.json
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\bin\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.pdb
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.csproj.AssemblyReference.cache
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp_MarkupCompile.cache
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp_MarkupCompile.lref
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.g.resources
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.AssemblyInfoInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.AssemblyInfo.cs
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.csproj.CoreCompileInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\refint\WiredBrainCoffee.CustomersApp.dll
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.pdb
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\WiredBrainCoffee.CustomersApp.genruntimeconfig.cache
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\ref\WiredBrainCoffee.CustomersApp.dll
