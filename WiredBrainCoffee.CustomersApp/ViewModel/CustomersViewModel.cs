@@ -33,6 +33,7 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
             {
                 _selectedCustomer = value;
                 RaisePropertyChanges();
+                RaisePropertyChanges(nameof(IsCustomerSelected));
                 DeleteCommand.RaiseCanExecuteChanged();
             }
         }
@@ -47,7 +48,7 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
             }
         }
 
-        
+        public bool IsCustomerSelected => SelectedCustomer is not null;
         public async Task LoadAsync()
         {
             if (Customers.Any())

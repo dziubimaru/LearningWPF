@@ -13,6 +13,12 @@
     <Page Update="Controls\HeaderControl.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Resources\Brushes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Converters.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\CustomersView.xaml">
       <SubType>Designer</SubType>
     </Page>
