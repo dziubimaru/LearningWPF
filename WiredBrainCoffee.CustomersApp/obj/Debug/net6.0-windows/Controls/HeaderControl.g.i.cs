@@ -53,7 +53,7 @@ namespace WiredBrainCoffee.CustomersApp.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WiredBrainCoffee.CustomersApp;V1.0.0.0;component/controls/headercontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WiredBrainCoffee.CustomersApp;component/controls/headercontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\HeaderControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -47,3 +47,6 @@ C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj
 C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\CustomersView.baml
 C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\App.baml
 C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\Resources\Brushes.baml
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\Resources\Converters.baml
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\ProductsView.g.cs
+C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\obj\Debug\net6.0-windows\View\ProductsView.baml

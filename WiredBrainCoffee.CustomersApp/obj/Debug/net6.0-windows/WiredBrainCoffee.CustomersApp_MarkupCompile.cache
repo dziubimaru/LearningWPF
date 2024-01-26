@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\shich\OneDrive\Desktop\C#\LearningWPF\WiredBrainCoffee.CustomersApp\App.xaml
-41998360707
+62049240828
 
-12136000423
+15388950993
 1941709816142
-Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;View\CustomersView.xaml;
+Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;Resources\Converters.xaml;View\CustomersView.xaml;View\ProductsView.xaml;
 
 False
 

@@ -49,7 +49,7 @@ namespace WiredBrainCoffee.CustomersApp.ViewModel
         }
 
         public bool IsCustomerSelected => SelectedCustomer is not null;
-        public async Task LoadAsync()
+        public async override Task LoadAsync()
         {
             if (Customers.Any())
             {
